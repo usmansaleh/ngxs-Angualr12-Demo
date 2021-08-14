@@ -1,2 +1,2 @@
-# ngxs-Angualr12-Demo
+# ngxs-Angular12-Demo
 Used state management with Angular
